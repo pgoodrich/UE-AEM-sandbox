@@ -1,3 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1L1V0WwAbjYw_Tto2F-vzFl77vURXxpQ7?usp=sharing
-
+  /: 
+    url: "https://author-p7752-e729659.adobeaemcloud.com/"
+    type: "markup"
+    suffix: ".html"
